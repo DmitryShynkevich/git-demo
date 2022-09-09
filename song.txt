@@ -6,4 +6,4 @@ on this their chosen battle field
 Shield by shield
 Form the lines
 
-commit #1
+commit #1 not success
